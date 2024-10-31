@@ -3,13 +3,15 @@
 ## Table of Contents
 
 - [Project Overview](#Project-Overview)
--	Data Source
+-	[Data Source](#About-the-data)
 -	Tools Used
 -	Data Preparation and Data Cleaning
 -	Data Analysis
 -	Visualization in Power BI
 -	Findings
 -	Limitations
+
+## COVID-19 Global Data Analysis Project
 
 ### Project Overview
 
